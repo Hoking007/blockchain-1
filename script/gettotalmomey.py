@@ -1,5 +1,4 @@
 #!/usr/bin/python
-#coding=utf-8
 
 start_block_reward = 50
 
@@ -11,7 +10,7 @@ def GetTotalMoney():
     # 1 BTC = 1 0000 0000 Satoshis
     current_reward = 50 * 10**8
     total_money = 0
-    global total_block # 需加 global 关键字进行声明，才能使用
+    global total_block # need to add keyword global to use
     while current_reward > 0:
         total_money += reward_interval * current_reward
         current_reward /= 2
