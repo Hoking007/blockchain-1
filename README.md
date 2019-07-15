@@ -30,7 +30,7 @@
 * [Bitcoin - Open source P2P money](https://bitcoin.org/en)
 * [Bitcoin Core :: Bitcoin](https://bitcoincore.org)
 
-### Wiki and Developer Documentation | 维基及开发者文档
+### Wiki and Developer Documentation | 维基和开发者文档
 
 * [Bitcoin Wiki](https://en.bitcoin.it/wiki/Main_Page)
 * [Developer Documentation - Bitcoin](https://bitcoin.org/en/developer-documentation)
@@ -39,7 +39,7 @@
 
 * [Bitcoin v0.1 released](https://www.metzdowd.com/pipermail/cryptography/2009-January/014994.html) - the actual first email sent to the cryptography mailing-list by Satoshi where he actually delivered the 0.1 version
 * [Code \| Satoshi Nakamoto Institute](https://satoshi.nakamotoinstitute.org/code) - Pre-Release (nov08), v0.1.0, v0.1.3
-* [bitcoin/bitcoin at v0.1.5 ALPHA](https://github.com/bitcoin/bitcoin/tree/4405b78d6059e536c36974088a8ed4d9f0f29898) - very close to what Satoshi initially wrote
+* [bitcoin/bitcoin at v0.1.5 ALPHA](https://github.com/bitcoin/bitcoin/tree/v0.1.5) - very close to what Satoshi initially wrote
 * [bitcoin/bitcoin at v0.12.1](https://github.com/bitcoin/bitcoin/tree/v0.12.1) - turning point
 * [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - the latest release
 * [bitcoin/bips: Bitcoin Improvement Proposals](https://github.com/bitcoin/bips)
@@ -63,6 +63,11 @@
 * [JSON](http://www.json.org)
 * [Remote procedure call - Wikipedia](https://en.wikipedia.org/wiki/Remote_procedure_call)
 * [JSON-RPC](https://www.jsonrpc.org)
+
+### Miscellaneous | 杂项
+
+* [Bitcoin Forum - Index](https://bitcointalk.org)
+* [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
 
 <details open>
 <summary>bitcoind startup process v0.12.1 | 比特币核心服务启动流程</summary>
