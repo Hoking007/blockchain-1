@@ -7,7 +7,7 @@ reward_interval = 210000
 
 total_block = 0
 
-def max_money():
+def GetTotalMoney():
     # 1 BTC = 1 0000 0000 Satoshis
     current_reward = 50 * 10**8
     total_money = 0
@@ -19,6 +19,6 @@ def max_money():
     return total_money
 
 if __name__ == "__main__":
-    print "Total BTC to ever be created: ", max_money(), " Satoshis" # python: 2099999997690000
+    print "Total BTC to ever be created: ", GetTotalMoney(), " Satoshis" # python: 2099999997690000
     print "Total block to ever be created: ", total_block, " blocks"
     #print("Total BTC to ever be created: ", max_money(), " Satoshis") # python3: 2100000000000000.0

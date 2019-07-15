@@ -1,11 +1,10 @@
 #!/usr/bin/python3
-#coding=utf-8
 
 import sys
 
 reward_interval = 210000
 
-def current_currency(total_block):
+def GetCurrentCurrency(total_block):
     # 1 BTC = 1 0000 0000 Satoshis
     current_reward = 50 * 10**8
     total_money = 0
@@ -20,4 +19,4 @@ def current_currency(total_block):
 
 if __name__ == "__main__":
     blocks = sys.argv[1]
-    print("current currency: ", current_currency(int(blocks)))
+    print("current currency: ", GetCurrentCurrency(int(blocks)))
