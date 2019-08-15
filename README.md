@@ -24,8 +24,6 @@
 * [Blockchain - Get to know it](https://blockchainhandbook.io)
 * [Blockchain Demo](https://anders.com/blockchain)
 * [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content)
-* [简介 · 比特币开发者指南-巴比特图书](https://book.8btc.com/books/6/bitcoin-developer-guide/_book)
-* [简介 · 区块链开发者指南-巴比特图书](https://book.8btc.com/books/6/blockchain-developer-guide/_book)
 * [bitcoinbook/bitcoinbook: Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
 * [tianmingyun/MasterBitcoin2CN: 《精通比特币》第二版 区块链研习社 云天明联合出品](https://github.com/tianmingyun/MasterBitcoin2CN)
 
