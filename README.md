@@ -55,7 +55,9 @@
 
 ### Basic Knowledge | 基础知识
 
+* [C Programming](http://www.isthe.com/chongo/tech/comp/c/index.html)
 * [cppreference.com](https://en.cppreference.com/w)
+* [The C++ Annotations](http://www.icce.rug.nl/documents/cplusplus)
 * [Reference - C++ Reference](http://www.cplusplus.com/reference)
 * [Boost C++ Libraries](https://www.boost.org) - 官方
 * [Boost Library Documentaion](https://www.boost.org/doc/libs)
