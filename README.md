@@ -1,7 +1,10 @@
 # Blockchain | 区块链
 
-与其说比特币是区块链技术的第一个应用，不如说区块链技术是为了实现数字货币比特币，而出现的一种重组现有技术得到的“新”技术。
-至于除了数字货币之外还能实现什么应用，我想，等比特币落地的那天，一切都会揭晓。
+与其说比特币是区块链技术的第一个应用，不如说区块链技术是为了实现数字货币比特币出现的一种重组现有技术而得到的“新”技术。
+
+比特币是一个创新的支付网络，一种新型的开源 P2P 货币。
+其底层区块链就像数据结构中的一条单链表，链上的每个节点都有**不易更改**的特性。
+该网络通过激励矿工挖矿产生新节点的方式，来维持比特币的正常运行。
 
 ## Bitcoin | 比特币（区块链 v1.0）
 
@@ -16,7 +19,7 @@
 * [Bitcoin Whitepaper - Satoshi Nakamoto](http://satoshinakamoto.me/whitepaper) - 非官方多语言版
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://git.dhimmel.com/bitcoin-whitepaper) - 重新排版
 * [比特币白皮书 个人翻译+注解](https://zhuanlan.zhihu.com/p/25039679) - 知乎
-* [比特币白皮书中英对照 \| mistydew](https://mistydew.github.io/blog/2018/04/Bitcoin-A-Peer-to-Peer-Electronic-Cash-System.html)
+* [比特币白皮书中英对照 \| mistydew's blog](https://mistydew.github.io/blog/2018/04/Bitcoin-A-Peer-to-Peer-Electronic-Cash-System.html)
 
 ### Guide | 指南
 
@@ -51,7 +54,7 @@
 * [比特币源码解析 - \--Splay\--](https://me.csdn.net/u012183589)
 * [比特币源码解读 - ttblack](https://www.jianshu.com/u/ef215107c407) - v0.9.5rc2
 * [比特币源码研读 - 菜菜子_forest](https://www.jianshu.com/u/30081a05cf95) - 0.14
-* [比特币源码剖析 \| mistydew](https://mistydew.github.io/blog/2018/05/bitcoin-source-anatomy-00.html) - v0.12.1
+* [比特币源码剖析 \| mistydew's blog](https://mistydew.github.io/blog/2018/05/bitcoin-source-anatomy-00.html) - v0.12.1
 
 ### Basic Knowledge | 基础知识
 
