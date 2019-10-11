@@ -1,6 +1,6 @@
 # Blockchain | 区块链
 
-与其说比特币是区块链的第一个应用，不如说区块链技术是为了实现数字货币比特币出现的一种组合现有技术而成的“新”技术。
+与其说比特币是区块链的第一个应用，不如说区块链是为了实现数字货币比特币而出现的一种组合现有技术的“新”技术。
 
 ## Bitcoin | 比特币（区块链 v1.0）
 
@@ -61,8 +61,6 @@
 * [The C++ Annotations](http://www.icce.rug.nl/documents/cplusplus)
 * [Reference - C++ Reference](http://www.cplusplus.com/reference)
 * [Boost C++ Libraries](https://www.boost.org) - 官方
-* [Boost Library Documentaion](https://www.boost.org/doc/libs)
-* [The Boost C++ Libraries](https://theboostcpplibraries.com)
 * [Boost C++ Libraries](http://boost.ez2learn.com) - 中文
 * [Fast portable non-blocking network programming with Libevent](http://www.wangafu.net/~nickm/libevent-book)
 * [JSON](http://www.json.org)
