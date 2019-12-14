@@ -11,22 +11,20 @@
 
 ### White Paper | 白皮书
 
-* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - 原版
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - 官方英语原版
 * [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/en/bitcoin-paper) - 官方多语言版
-* [Bitcoin whitepaper repository on GitHub](https://github.com/wbnns/bitcoinwhitepaper)
+* [Bitcoin whitepaper repository on GitHub](https://github.com/wbnns/bitcoinwhitepaper) - 官方仓库
+* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://git.dhimmel.com/bitcoin-whitepaper) - 非官方重新排版
 * [Bitcoin Whitepaper - Satoshi Nakamoto](http://satoshinakamoto.me/whitepaper) - 非官方多语言版
-* [Bitcoin: A Peer-to-Peer Electronic Cash System](https://git.dhimmel.com/bitcoin-whitepaper) - 重新排版
 * [比特币白皮书 个人翻译+注解](https://zhuanlan.zhihu.com/p/25039679) - 知乎
 * [比特币白皮书中英对照 \| mistydew's blog](https://mistydew.github.io/blog/2018/04/Bitcoin-A-Peer-to-Peer-Electronic-Cash-System.html)
 
 ### Guide | 指南
 
 * [How Does Bitcoin Work?](https://learnmeabitcoin.com)
-* [Blockchain - Get to know it](https://blockchainhandbook.io)
 * [Blockchain Demo](https://anders.com/blockchain)
 * [区块链技术指南](https://yeasy.gitbooks.io/blockchain_guide/content)
-* [bitcoinbook/bitcoinbook: Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
-* [tianmingyun/MasterBitcoin2CN: 《精通比特币》第二版 区块链研习社 云天明联合出品](https://github.com/tianmingyun/MasterBitcoin2CN)
+* [Mastering Bitcoin – The Bitcoin Book – Programming the Open Blockchain](https://bitcoinbook.info)
 
 ### Official Website | 官方网站
 
@@ -60,11 +58,9 @@
 * [cppreference.com](https://en.cppreference.com/w)
 * [The C++ Annotations](http://www.icce.rug.nl/documents/cplusplus)
 * [Reference - C++ Reference](http://www.cplusplus.com/reference)
-* [Boost C++ Libraries](https://www.boost.org) - 官方
-* [Boost C++ Libraries](http://boost.ez2learn.com) - 中文
+* [Boost C++ Libraries](https://www.boost.org)
 * [Fast portable non-blocking network programming with Libevent](http://www.wangafu.net/~nickm/libevent-book)
 * [JSON](http://www.json.org)
-* [Remote procedure call - Wikipedia](https://en.wikipedia.org/wiki/Remote_procedure_call)
 * [JSON-RPC](https://www.jsonrpc.org)
 
 ### Miscellaneous | 杂项
@@ -73,7 +69,7 @@
 * [Satoshi Nakamoto Institute](https://nakamotoinstitute.org)
 
 <details open>
-<summary>bitcoind startup process v0.12.1 | 比特币核心服务启动流程</summary>
+<summary>bitcoind startup process v0.12.1 | 比特币核心服务启动流程 0.12.1 版</summary>
 
 ![bitcoind-stratup](/images/bitcoind-startup-v0.12.1.png)
 </details>
